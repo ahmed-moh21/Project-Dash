@@ -1,0 +1,24 @@
+.tableth{
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+    color: #ffab4c;
+}
+
+table {
+    width: 100%;
+}
+
+.parent {
+    padding: 15px;
+    text-align: left;
+    border: 1px solid #ddd;
+    color: black;
+    font-size: 20px;
+}
+
+
+#table tr:hover {
+    background-color: rgba(221, 221, 221, 0.753);
+    transition: all 0.2s ease-in-out ;
+}
